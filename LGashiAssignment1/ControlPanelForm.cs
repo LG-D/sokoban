@@ -15,7 +15,7 @@ namespace LGashiAssignment1
         public ControlPanelForm()
         {
             InitializeComponent();
-        }
+        } 
 
         /// <summary>
         /// When clicking, will open the designer form 
