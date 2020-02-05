@@ -1,0 +1,48 @@
+C:\Users\denis\Desktop\Conestoga\Game Programming Data Structures\Assignments\LGashiAssignment1\LGashiAssignment1\bin\Debug\LGashiAssignment1.exe.config
+C:\Users\denis\Desktop\Conestoga\Game Programming Data Structures\Assignments\LGashiAssignment1\LGashiAssignment1\bin\Debug\LGashiAssignment1.exe
+C:\Users\denis\Desktop\Conestoga\Game Programming Data Structures\Assignments\LGashiAssignment1\LGashiAssignment1\bin\Debug\LGashiAssignment1.pdb
+C:\Users\denis\Desktop\Conestoga\Game Programming Data Structures\Assignments\LGashiAssignment1\LGashiAssignment1\obj\Debug\LGashiAssignment1.csprojAssemblyReference.cache
+C:\Users\denis\Desktop\Conestoga\Game Programming Data Structures\Assignments\LGashiAssignment1\LGashiAssignment1\obj\Debug\LGashiAssignment1.ControlPanelForm.resources
+C:\Users\denis\Desktop\Conestoga\Game Programming Data Structures\Assignments\LGashiAssignment1\LGashiAssignment1\obj\Debug\LGashiAssignment1.Properties.Resources.resources
+C:\Users\denis\Desktop\Conestoga\Game Programming Data Structures\Assignments\LGashiAssignment1\LGashiAssignment1\obj\Debug\LGashiAssignment1.csproj.GenerateResource.cache
+C:\Users\denis\Desktop\Conestoga\Game Programming Data Structures\Assignments\LGashiAssignment1\LGashiAssignment1\obj\Debug\LGashiAssignment1.csproj.CoreCompileInputs.cache
+C:\Users\denis\Desktop\Conestoga\Game Programming Data Structures\Assignments\LGashiAssignment1\LGashiAssignment1\obj\Debug\LGashiAssignment1.exe
+C:\Users\denis\Desktop\Conestoga\Game Programming Data Structures\Assignments\LGashiAssignment1\LGashiAssignment1\obj\Debug\LGashiAssignment1.pdb
+C:\Users\denis\Desktop\Conestoga\Game Programming Data Structures\Assignments\LGashiAssignment1\LGashiAssignment1\obj\Debug\LGashiAssignment1.MazeDesignerForm.resources
+C:\Users\denis\Desktop\Conestoga\Game Programming Data Structures\Assignments\LGashiAssignment1\LGashiAssignment1\obj\Debug\LGashiAssignment1.PlayForm.resources
+C:\Users\denis\Desktop\LGashiAssignment1\LGashiAssignment1\bin\Debug\LGashiAssignment1.exe.config
+C:\Users\denis\Desktop\LGashiAssignment1\LGashiAssignment1\bin\Debug\LGashiAssignment1.exe
+C:\Users\denis\Desktop\LGashiAssignment1\LGashiAssignment1\bin\Debug\LGashiAssignment1.pdb
+C:\Users\denis\Desktop\LGashiAssignment1\LGashiAssignment1\obj\Debug\LGashiAssignment1.csprojAssemblyReference.cache
+C:\Users\denis\Desktop\LGashiAssignment1\LGashiAssignment1\obj\Debug\LGashiAssignment1.ControlPanelForm.resources
+C:\Users\denis\Desktop\LGashiAssignment1\LGashiAssignment1\obj\Debug\LGashiAssignment1.MazeDesignerForm.resources
+C:\Users\denis\Desktop\LGashiAssignment1\LGashiAssignment1\obj\Debug\LGashiAssignment1.PlayForm.resources
+C:\Users\denis\Desktop\LGashiAssignment1\LGashiAssignment1\obj\Debug\LGashiAssignment1.Properties.Resources.resources
+C:\Users\denis\Desktop\LGashiAssignment1\LGashiAssignment1\obj\Debug\LGashiAssignment1.csproj.GenerateResource.cache
+C:\Users\denis\Desktop\LGashiAssignment1\LGashiAssignment1\obj\Debug\LGashiAssignment1.csproj.CoreCompileInputs.cache
+C:\Users\denis\Desktop\LGashiAssignment1\LGashiAssignment1\obj\Debug\LGashiAssignment1.exe
+C:\Users\denis\Desktop\LGashiAssignment1\LGashiAssignment1\obj\Debug\LGashiAssignment1.pdb
+C:\Users\denis\Desktop\Family\LGashiAssignment1\LGashiAssignment1\bin\Debug\LGashiAssignment1.exe.config
+C:\Users\denis\Desktop\Family\LGashiAssignment1\LGashiAssignment1\bin\Debug\LGashiAssignment1.exe
+C:\Users\denis\Desktop\Family\LGashiAssignment1\LGashiAssignment1\bin\Debug\LGashiAssignment1.pdb
+C:\Users\denis\Desktop\Family\LGashiAssignment1\LGashiAssignment1\obj\Debug\LGashiAssignment1.csprojAssemblyReference.cache
+C:\Users\denis\Desktop\Family\LGashiAssignment1\LGashiAssignment1\obj\Debug\LGashiAssignment1.ControlPanelForm.resources
+C:\Users\denis\Desktop\Family\LGashiAssignment1\LGashiAssignment1\obj\Debug\LGashiAssignment1.MazeDesignerForm.resources
+C:\Users\denis\Desktop\Family\LGashiAssignment1\LGashiAssignment1\obj\Debug\LGashiAssignment1.PlayForm.resources
+C:\Users\denis\Desktop\Family\LGashiAssignment1\LGashiAssignment1\obj\Debug\LGashiAssignment1.Properties.Resources.resources
+C:\Users\denis\Desktop\Family\LGashiAssignment1\LGashiAssignment1\obj\Debug\LGashiAssignment1.csproj.GenerateResource.cache
+C:\Users\denis\Desktop\Family\LGashiAssignment1\LGashiAssignment1\obj\Debug\LGashiAssignment1.csproj.CoreCompileInputs.cache
+C:\Users\denis\Desktop\Family\LGashiAssignment1\LGashiAssignment1\obj\Debug\LGashiAssignment1.exe
+C:\Users\denis\Desktop\Family\LGashiAssignment1\LGashiAssignment1\obj\Debug\LGashiAssignment1.pdb
+C:\Users\denis\Desktop\Conestoga\Game Programming Data Structures\Assignments\LGashiAssignment2\LGashiAssignment1\LGashiAssignment1\bin\Debug\LGashiAssignment1.exe.config
+C:\Users\denis\Desktop\Conestoga\Game Programming Data Structures\Assignments\LGashiAssignment2\LGashiAssignment1\LGashiAssignment1\bin\Debug\LGashiAssignment1.exe
+C:\Users\denis\Desktop\Conestoga\Game Programming Data Structures\Assignments\LGashiAssignment2\LGashiAssignment1\LGashiAssignment1\bin\Debug\LGashiAssignment1.pdb
+C:\Users\denis\Desktop\Conestoga\Game Programming Data Structures\Assignments\LGashiAssignment2\LGashiAssignment1\LGashiAssignment1\obj\Debug\LGashiAssignment1.csprojAssemblyReference.cache
+C:\Users\denis\Desktop\Conestoga\Game Programming Data Structures\Assignments\LGashiAssignment2\LGashiAssignment1\LGashiAssignment1\obj\Debug\LGashiAssignment1.ControlPanelForm.resources
+C:\Users\denis\Desktop\Conestoga\Game Programming Data Structures\Assignments\LGashiAssignment2\LGashiAssignment1\LGashiAssignment1\obj\Debug\LGashiAssignment1.MazeDesignerForm.resources
+C:\Users\denis\Desktop\Conestoga\Game Programming Data Structures\Assignments\LGashiAssignment2\LGashiAssignment1\LGashiAssignment1\obj\Debug\LGashiAssignment1.PlayForm.resources
+C:\Users\denis\Desktop\Conestoga\Game Programming Data Structures\Assignments\LGashiAssignment2\LGashiAssignment1\LGashiAssignment1\obj\Debug\LGashiAssignment1.Properties.Resources.resources
+C:\Users\denis\Desktop\Conestoga\Game Programming Data Structures\Assignments\LGashiAssignment2\LGashiAssignment1\LGashiAssignment1\obj\Debug\LGashiAssignment1.csproj.GenerateResource.cache
+C:\Users\denis\Desktop\Conestoga\Game Programming Data Structures\Assignments\LGashiAssignment2\LGashiAssignment1\LGashiAssignment1\obj\Debug\LGashiAssignment1.csproj.CoreCompileInputs.cache
+C:\Users\denis\Desktop\Conestoga\Game Programming Data Structures\Assignments\LGashiAssignment2\LGashiAssignment1\LGashiAssignment1\obj\Debug\LGashiAssignment1.exe
+C:\Users\denis\Desktop\Conestoga\Game Programming Data Structures\Assignments\LGashiAssignment2\LGashiAssignment1\LGashiAssignment1\obj\Debug\LGashiAssignment1.pdb
