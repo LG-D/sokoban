@@ -9,3 +9,8 @@
 #### -Purpose is to push all the red boxes into their destinations without getting stuck throughout your game
 #### -Your moves will be counted as well as the pushes you make
 
+## Image of hard-mode level:
+![alt text](https://github.com/LG-D/sokoban/blob/master/LGashiAssignment2Screenshot1.jpg)
+
+## Image when the game is over:
+![alt text](https://github.com/LG-D/sokoban/blob/master/LGashiAssignment2Screenshot2.jpg)
